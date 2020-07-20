@@ -19,7 +19,7 @@ nav ul {
 }
 
 a {
-  color:red;
+  color: lightgray;
   text-decoration: none;
 
 }
@@ -80,6 +80,7 @@ footer {
 }
 
 button:hover {
-  background-color: red;
+  background-color: black;
   transition: 350ms;
+  color: whitesmoke;
 }
